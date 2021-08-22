@@ -10,7 +10,6 @@ O Kaggle é uma plataforma subsidiária da Google LLC para cientistas de dados q
 Resoluções de desafios e competições de data sciente da plataforma presentes nesse repositório:
 
 - Titanic https://www.kaggle.com/c/titanic
-- Housing Prices https://www.kaggle.com/c/home-data-for-ml-course
 
 
 ### Perfil de Usuário
